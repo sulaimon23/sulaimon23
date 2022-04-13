@@ -5,5 +5,5 @@
 - 💬 Ask me about React or Angular
 - 📫 How to reach me: Email - tsulaimon96@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I do lots of stuffs
+- ⚡ Fun fact: I do lot of stuffs
 
